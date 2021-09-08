@@ -42,3 +42,7 @@ API Endpoints
      “api/posts/:post_id”
 3.	Post Blog Post
                            “api/posts”
+                           
+ #User Flow
+ ![UserFlow](https://user-images.githubusercontent.com/52064346/132559189-0eaa1ea5-02b6-463d-a7d2-e7967f2d045f.png)
+
